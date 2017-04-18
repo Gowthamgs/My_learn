@@ -1,0 +1,43 @@
+<body>
+
+  <div id="wrapper">
+
+    <%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
+    <%= devise_error_messages! %>
+      <div id="page-wrapper">
+
+        <div class="row">
+
+          <div class="col-lg-12 text-center v-center">
+
+          <h1>Sign Up</h1>
+          
+           <div class="form-group" style="margin: 0 auto;">
+              <input style="color:black" autofocus name="user[email]" value="<%= @user.email %>" class="form-control input-lg"
+            placeholder="Enter your email address" type="text">
+            </div><br>
+
+          <div class="form-group" style=" margin: 0 auto;">
+            <input style="color:black" value="<%= @user.password %>" name="user[password]" autocomplete="off" class="form-control input-lg" placeholder="Enter your Password" type="password">
+          </div><br>
+
+          <div class="form-group" style=" margin: 0 auto;">
+            <input style="color:black" value="<%= @user.password_confirmation %>" name="user[password_confirmation]" autocomplete="off" class="form-control input-lg" placeholder="Confirm" type="password">
+          </div><br>
+
+          <input class="btn btn-success btn-lg" value ="Sign Up" type="submit">
+          </div>
+
+          <br>
+          <br>
+          <div class="row">
+            <div class="col-lg-12 text-center" style="font-size: 20pt;">
+              <a href="#"><span class="avatar"><%= render "devise/shared/links" %></span></a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    <% end %>
+  </div>    
+</body>

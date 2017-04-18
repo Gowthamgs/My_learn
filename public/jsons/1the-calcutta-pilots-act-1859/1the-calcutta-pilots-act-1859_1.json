@@ -1,0 +1,6721 @@
+{
+  "textAnnotations": [
+    {
+      "description": "ACT No. XII oF 1859\nPASSED BY THE LEGISLATIVE COUNCIL OF INDIA.\n(Received the assent of the Governor General on the 4th May 1859.D\nAn Act to make bette provisionufor theitrial of Pilots at the Presidency of\nEbrttAealidin in Bengal for breach of duty\nlaw for the trial of persons employed\nWHEREAS it is expedientteamen\nin the Pilot Service of Government at the Presidency of\nPreamble\nFort William in Berigal, when accused of breach of duty,\nand to extend the same to persons licensed to act as Pilots at the said Presi-\ndency It is enacted as follows:\nI. Act XXIV of 1845 (for establishing a Court for the trial of Oticers\nof the Pilot Service accused of breach of duty) and Act I\nActs repealed.\nof 1851 for the appropriation of fines levied under\nAct XXIV of 1845) are hereby repealed.\nin. When any person employed in the Pilot Service of Government at\nthe Presidency of Fort William in Bengal, or licensed to\nHow Pilots accused of\nshall be\nact as a Pilot at the said Presidency, shall be accused of\nbrought to tria\nhaving committed any breach of duty while engaged in\nsuch Service or acting under suchrlicense, and it shall appear to the Superin-\ntendent of Marine, or to the Lieutenant-Governor of Bengal, that such person\nought to be brought to trial for such breach of duty, such person shall be\nbrought to trial upon a charge or charges framed by the said Superintendent\nof Marine or such other person as the said Lieutenant-Governor shall direct,\nbefore a Court constituted under the provisions of this Act\nIll. The Lieutenant-Governor of Bengal shall appoint a fit person\nto be\nAppointment of Judge\nJudge of the said Court.\nIV. The\n",
+      "locale": "en",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 211,
+            "x": 195
+          },
+          {
+            "y": 211,
+            "x": 903
+          },
+          {
+            "y": 1140,
+            "x": 903
+          },
+          {
+            "y": 1140,
+            "x": 195
+          }
+        ]
+      }
+    },
+    {
+      "description": "ACT",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 215,
+            "x": 423
+          },
+          {
+            "y": 214,
+            "x": 478
+          },
+          {
+            "y": 237,
+            "x": 478
+          },
+          {
+            "y": 238,
+            "x": 423
+          }
+        ]
+      }
+    },
+    {
+      "description": "No.",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 214,
+            "x": 488
+          },
+          {
+            "y": 213,
+            "x": 529
+          },
+          {
+            "y": 236,
+            "x": 529
+          },
+          {
+            "y": 237,
+            "x": 488
+          }
+        ]
+      }
+    },
+    {
+      "description": "XII",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 213,
+            "x": 539
+          },
+          {
+            "y": 212,
+            "x": 583
+          },
+          {
+            "y": 235,
+            "x": 583
+          },
+          {
+            "y": 236,
+            "x": 539
+          }
+        ]
+      }
+    },
+    {
+      "description": "oF",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 212,
+            "x": 596
+          },
+          {
+            "y": 212,
+            "x": 620
+          },
+          {
+            "y": 235,
+            "x": 620
+          },
+          {
+            "y": 235,
+            "x": 596
+          }
+        ]
+      }
+    },
+    {
+      "description": "1859",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 212,
+            "x": 633
+          },
+          {
+            "y": 211,
+            "x": 682
+          },
+          {
+            "y": 234,
+            "x": 682
+          },
+          {
+            "y": 235,
+            "x": 633
+          }
+        ]
+      }
+    },
+    {
+      "description": "PASSED",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 319,
+            "x": 339
+          },
+          {
+            "y": 319,
+            "x": 402
+          },
+          {
+            "y": 348,
+            "x": 402
+          },
+          {
+            "y": 348,
+            "x": 339
+          }
+        ]
+      }
+    },
+    {
+      "description": "BY",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 318,
+            "x": 413
+          },
+          {
+            "y": 318,
+            "x": 433
+          },
+          {
+            "y": 347,
+            "x": 433
+          },
+          {
+            "y": 347,
+            "x": 413
+          }
+        ]
+      }
+    },
+    {
+      "description": "THE",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 318,
+            "x": 443
+          },
+          {
+            "y": 318,
+            "x": 477
+          },
+          {
+            "y": 347,
+            "x": 477
+          },
+          {
+            "y": 347,
+            "x": 443
+          }
+        ]
+      }
+    },
+    {
+      "description": "LEGISLATIVE",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 318,
+            "x": 488
+          },
+          {
+            "y": 317,
+            "x": 594
+          },
+          {
+            "y": 346,
+            "x": 594
+          },
+          {
+            "y": 347,
+            "x": 488
+          }
+        ]
+      }
+    },
+    {
+      "description": "COUNCIL",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 317,
+            "x": 605
+          },
+          {
+            "y": 317,
+            "x": 677
+          },
+          {
+            "y": 346,
+            "x": 677
+          },
+          {
+            "y": 346,
+            "x": 605
+          }
+        ]
+      }
+    },
+    {
+      "description": "OF",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 317,
+            "x": 687
+          },
+          {
+            "y": 317,
+            "x": 707
+          },
+          {
+            "y": 346,
+            "x": 707
+          },
+          {
+            "y": 346,
+            "x": 687
+          }
+        ]
+      }
+    },
+    {
+      "description": "INDIA.",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 317,
+            "x": 717
+          },
+          {
+            "y": 317,
+            "x": 772
+          },
+          {
+            "y": 346,
+            "x": 772
+          },
+          {
+            "y": 346,
+            "x": 717
+          }
+        ]
+      }
+    },
+    {
+      "description": "(Received",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 367,
+            "x": 250
+          },
+          {
+            "y": 367,
+            "x": 328
+          },
+          {
+            "y": 392,
+            "x": 328
+          },
+          {
+            "y": 392,
+            "x": 250
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 367,
+            "x": 337
+          },
+          {
+            "y": 367,
+            "x": 363
+          },
+          {
+            "y": 392,
+            "x": 363
+          },
+          {
+            "y": 392,
+            "x": 337
+          }
+        ]
+      }
+    },
+    {
+      "description": "assent",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 367,
+            "x": 370
+          },
+          {
+            "y": 367,
+            "x": 420
+          },
+          {
+            "y": 392,
+            "x": 420
+          },
+          {
+            "y": 392,
+            "x": 370
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 366,
+            "x": 428
+          },
+          {
+            "y": 366,
+            "x": 443
+          },
+          {
+            "y": 391,
+            "x": 443
+          },
+          {
+            "y": 391,
+            "x": 428
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 366,
+            "x": 450
+          },
+          {
+            "y": 366,
+            "x": 477
+          },
+          {
+            "y": 391,
+            "x": 477
+          },
+          {
+            "y": 391,
+            "x": 450
+          }
+        ]
+      }
+    },
+    {
+      "description": "Governor",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 366,
+            "x": 487
+          },
+          {
+            "y": 366,
+            "x": 564
+          },
+          {
+            "y": 391,
+            "x": 564
+          },
+          {
+            "y": 391,
+            "x": 487
+          }
+        ]
+      }
+    },
+    {
+      "description": "General",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 366,
+            "x": 577
+          },
+          {
+            "y": 366,
+            "x": 645
+          },
+          {
+            "y": 391,
+            "x": 645
+          },
+          {
+            "y": 391,
+            "x": 577
+          }
+        ]
+      }
+    },
+    {
+      "description": "on",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 366,
+            "x": 655
+          },
+          {
+            "y": 366,
+            "x": 675
+          },
+          {
+            "y": 391,
+            "x": 675
+          },
+          {
+            "y": 391,
+            "x": 655
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 365,
+            "x": 685
+          },
+          {
+            "y": 365,
+            "x": 712
+          },
+          {
+            "y": 390,
+            "x": 712
+          },
+          {
+            "y": 390,
+            "x": 685
+          }
+        ]
+      }
+    },
+    {
+      "description": "4th",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 365,
+            "x": 722
+          },
+          {
+            "y": 365,
+            "x": 749
+          },
+          {
+            "y": 390,
+            "x": 749
+          },
+          {
+            "y": 390,
+            "x": 722
+          }
+        ]
+      }
+    },
+    {
+      "description": "May",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 365,
+            "x": 760
+          },
+          {
+            "y": 365,
+            "x": 799
+          },
+          {
+            "y": 390,
+            "x": 799
+          },
+          {
+            "y": 390,
+            "x": 760
+          }
+        ]
+      }
+    },
+    {
+      "description": "1859.D",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 365,
+            "x": 809
+          },
+          {
+            "y": 365,
+            "x": 865
+          },
+          {
+            "y": 390,
+            "x": 865
+          },
+          {
+            "y": 390,
+            "x": 809
+          }
+        ]
+      }
+    },
+    {
+      "description": "An",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 441,
+            "x": 229
+          },
+          {
+            "y": 441,
+            "x": 255
+          },
+          {
+            "y": 467,
+            "x": 255
+          },
+          {
+            "y": 467,
+            "x": 229
+          }
+        ]
+      }
+    },
+    {
+      "description": "Act",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 441,
+            "x": 261
+          },
+          {
+            "y": 441,
+            "x": 292
+          },
+          {
+            "y": 467,
+            "x": 292
+          },
+          {
+            "y": 467,
+            "x": 261
+          }
+        ]
+      }
+    },
+    {
+      "description": "to",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 441,
+            "x": 298
+          },
+          {
+            "y": 441,
+            "x": 313
+          },
+          {
+            "y": 467,
+            "x": 313
+          },
+          {
+            "y": 467,
+            "x": 298
+          }
+        ]
+      }
+    },
+    {
+      "description": "make",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 441,
+            "x": 324
+          },
+          {
+            "y": 441,
+            "x": 363
+          },
+          {
+            "y": 467,
+            "x": 363
+          },
+          {
+            "y": 467,
+            "x": 324
+          }
+        ]
+      }
+    },
+    {
+      "description": "bette",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 441,
+            "x": 372
+          },
+          {
+            "y": 441,
+            "x": 415
+          },
+          {
+            "y": 467,
+            "x": 415
+          },
+          {
+            "y": 467,
+            "x": 372
+          }
+        ]
+      }
+    },
+    {
+      "description": "provisionufor",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 441,
+            "x": 427
+          },
+          {
+            "y": 441,
+            "x": 538
+          },
+          {
+            "y": 467,
+            "x": 538
+          },
+          {
+            "y": 467,
+            "x": 427
+          }
+        ]
+      }
+    },
+    {
+      "description": "theitrial",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 441,
+            "x": 546
+          },
+          {
+            "y": 441,
+            "x": 615
+          },
+          {
+            "y": 467,
+            "x": 615
+          },
+          {
+            "y": 467,
+            "x": 546
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 441,
+            "x": 623
+          },
+          {
+            "y": 441,
+            "x": 640
+          },
+          {
+            "y": 467,
+            "x": 640
+          },
+          {
+            "y": 467,
+            "x": 623
+          }
+        ]
+      }
+    },
+    {
+      "description": "Pilots",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 441,
+            "x": 651
+          },
+          {
+            "y": 441,
+            "x": 695
+          },
+          {
+            "y": 467,
+            "x": 695
+          },
+          {
+            "y": 467,
+            "x": 651
+          }
+        ]
+      }
+    },
+    {
+      "description": "at",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 441,
+            "x": 704
+          },
+          {
+            "y": 441,
+            "x": 718
+          },
+          {
+            "y": 467,
+            "x": 718
+          },
+          {
+            "y": 467,
+            "x": 704
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 441,
+            "x": 725
+          },
+          {
+            "y": 441,
+            "x": 753
+          },
+          {
+            "y": 467,
+            "x": 753
+          },
+          {
+            "y": 467,
+            "x": 725
+          }
+        ]
+      }
+    },
+    {
+      "description": "Presidency",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 441,
+            "x": 764
+          },
+          {
+            "y": 441,
+            "x": 856
+          },
+          {
+            "y": 467,
+            "x": 856
+          },
+          {
+            "y": 467,
+            "x": 764
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 441,
+            "x": 865
+          },
+          {
+            "y": 441,
+            "x": 879
+          },
+          {
+            "y": 467,
+            "x": 879
+          },
+          {
+            "y": 467,
+            "x": 865
+          }
+        ]
+      }
+    },
+    {
+      "description": "EbrttAealidin",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 467,
+            "x": 360
+          },
+          {
+            "y": 467,
+            "x": 480
+          },
+          {
+            "y": 494,
+            "x": 480
+          },
+          {
+            "y": 494,
+            "x": 360
+          }
+        ]
+      }
+    },
+    {
+      "description": "in",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 467,
+            "x": 487
+          },
+          {
+            "y": 467,
+            "x": 504
+          },
+          {
+            "y": 494,
+            "x": 504
+          },
+          {
+            "y": 494,
+            "x": 487
+          }
+        ]
+      }
+    },
+    {
+      "description": "Bengal",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 467,
+            "x": 516
+          },
+          {
+            "y": 467,
+            "x": 577
+          },
+          {
+            "y": 494,
+            "x": 577
+          },
+          {
+            "y": 494,
+            "x": 516
+          }
+        ]
+      }
+    },
+    {
+      "description": "for",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 467,
+            "x": 582
+          },
+          {
+            "y": 467,
+            "x": 603
+          },
+          {
+            "y": 494,
+            "x": 603
+          },
+          {
+            "y": 494,
+            "x": 582
+          }
+        ]
+      }
+    },
+    {
+      "description": "breach",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 467,
+            "x": 611
+          },
+          {
+            "y": 467,
+            "x": 665
+          },
+          {
+            "y": 494,
+            "x": 665
+          },
+          {
+            "y": 494,
+            "x": 611
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 467,
+            "x": 675
+          },
+          {
+            "y": 467,
+            "x": 691
+          },
+          {
+            "y": 494,
+            "x": 691
+          },
+          {
+            "y": 494,
+            "x": 675
+          }
+        ]
+      }
+    },
+    {
+      "description": "duty",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 467,
+            "x": 699
+          },
+          {
+            "y": 467,
+            "x": 738
+          },
+          {
+            "y": 494,
+            "x": 738
+          },
+          {
+            "y": 494,
+            "x": 699
+          }
+        ]
+      }
+    },
+    {
+      "description": "law",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 514,
+            "x": 580
+          },
+          {
+            "y": 514,
+            "x": 608
+          },
+          {
+            "y": 539,
+            "x": 608
+          },
+          {
+            "y": 539,
+            "x": 580
+          }
+        ]
+      }
+    },
+    {
+      "description": "for",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 514,
+            "x": 616
+          },
+          {
+            "y": 514,
+            "x": 638
+          },
+          {
+            "y": 539,
+            "x": 638
+          },
+          {
+            "y": 539,
+            "x": 616
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 514,
+            "x": 645
+          },
+          {
+            "y": 514,
+            "x": 671
+          },
+          {
+            "y": 539,
+            "x": 671
+          },
+          {
+            "y": 539,
+            "x": 645
+          }
+        ]
+      }
+    },
+    {
+      "description": "trial",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 514,
+            "x": 679
+          },
+          {
+            "y": 514,
+            "x": 717
+          },
+          {
+            "y": 539,
+            "x": 717
+          },
+          {
+            "y": 539,
+            "x": 679
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 514,
+            "x": 724
+          },
+          {
+            "y": 514,
+            "x": 739
+          },
+          {
+            "y": 539,
+            "x": 739
+          },
+          {
+            "y": 539,
+            "x": 724
+          }
+        ]
+      }
+    },
+    {
+      "description": "persons",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 514,
+            "x": 747
+          },
+          {
+            "y": 514,
+            "x": 809
+          },
+          {
+            "y": 539,
+            "x": 809
+          },
+          {
+            "y": 539,
+            "x": 747
+          }
+        ]
+      }
+    },
+    {
+      "description": "employed",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 514,
+            "x": 817
+          },
+          {
+            "y": 514,
+            "x": 901
+          },
+          {
+            "y": 539,
+            "x": 901
+          },
+          {
+            "y": 539,
+            "x": 817
+          }
+        ]
+      }
+    },
+    {
+      "description": "WHEREAS",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 516,
+            "x": 248
+          },
+          {
+            "y": 516,
+            "x": 329
+          },
+          {
+            "y": 538,
+            "x": 329
+          },
+          {
+            "y": 538,
+            "x": 248
+          }
+        ]
+      }
+    },
+    {
+      "description": "it",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 516,
+            "x": 333
+          },
+          {
+            "y": 516,
+            "x": 348
+          },
+          {
+            "y": 538,
+            "x": 348
+          },
+          {
+            "y": 538,
+            "x": 333
+          }
+        ]
+      }
+    },
+    {
+      "description": "is",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 516,
+            "x": 354
+          },
+          {
+            "y": 516,
+            "x": 368
+          },
+          {
+            "y": 538,
+            "x": 368
+          },
+          {
+            "y": 538,
+            "x": 354
+          }
+        ]
+      }
+    },
+    {
+      "description": "expedientteamen",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 516,
+            "x": 375
+          },
+          {
+            "y": 516,
+            "x": 529
+          },
+          {
+            "y": 538,
+            "x": 529
+          },
+          {
+            "y": 538,
+            "x": 375
+          }
+        ]
+      }
+    },
+    {
+      "description": "in",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 540,
+            "x": 395
+          },
+          {
+            "y": 540,
+            "x": 411
+          },
+          {
+            "y": 565,
+            "x": 411
+          },
+          {
+            "y": 565,
+            "x": 395
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 540,
+            "x": 418
+          },
+          {
+            "y": 540,
+            "x": 442
+          },
+          {
+            "y": 565,
+            "x": 442
+          },
+          {
+            "y": 565,
+            "x": 418
+          }
+        ]
+      }
+    },
+    {
+      "description": "Pilot",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 540,
+            "x": 450
+          },
+          {
+            "y": 540,
+            "x": 492
+          },
+          {
+            "y": 565,
+            "x": 492
+          },
+          {
+            "y": 565,
+            "x": 450
+          }
+        ]
+      }
+    },
+    {
+      "description": "Service",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 540,
+            "x": 501
+          },
+          {
+            "y": 540,
+            "x": 562
+          },
+          {
+            "y": 565,
+            "x": 562
+          },
+          {
+            "y": 565,
+            "x": 501
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 540,
+            "x": 569
+          },
+          {
+            "y": 540,
+            "x": 584
+          },
+          {
+            "y": 565,
+            "x": 584
+          },
+          {
+            "y": 565,
+            "x": 569
+          }
+        ]
+      }
+    },
+    {
+      "description": "Government",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 540,
+            "x": 597
+          },
+          {
+            "y": 540,
+            "x": 703
+          },
+          {
+            "y": 565,
+            "x": 703
+          },
+          {
+            "y": 565,
+            "x": 597
+          }
+        ]
+      }
+    },
+    {
+      "description": "at",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 540,
+            "x": 714
+          },
+          {
+            "y": 540,
+            "x": 734
+          },
+          {
+            "y": 565,
+            "x": 734
+          },
+          {
+            "y": 565,
+            "x": 714
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 540,
+            "x": 742
+          },
+          {
+            "y": 540,
+            "x": 771
+          },
+          {
+            "y": 565,
+            "x": 771
+          },
+          {
+            "y": 565,
+            "x": 742
+          }
+        ]
+      }
+    },
+    {
+      "description": "Presidency",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 540,
+            "x": 783
+          },
+          {
+            "y": 540,
+            "x": 876
+          },
+          {
+            "y": 565,
+            "x": 876
+          },
+          {
+            "y": 565,
+            "x": 783
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 540,
+            "x": 884
+          },
+          {
+            "y": 540,
+            "x": 903
+          },
+          {
+            "y": 565,
+            "x": 903
+          },
+          {
+            "y": 565,
+            "x": 884
+          }
+        ]
+      }
+    },
+    {
+      "description": "Preamble",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 559,
+            "x": 220
+          },
+          {
+            "y": 559,
+            "x": 280
+          },
+          {
+            "y": 571,
+            "x": 280
+          },
+          {
+            "y": 571,
+            "x": 220
+          }
+        ]
+      }
+    },
+    {
+      "description": "Fort",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 565,
+            "x": 395
+          },
+          {
+            "y": 565,
+            "x": 433
+          },
+          {
+            "y": 587,
+            "x": 433
+          },
+          {
+            "y": 587,
+            "x": 395
+          }
+        ]
+      }
+    },
+    {
+      "description": "William",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 565,
+            "x": 440
+          },
+          {
+            "y": 565,
+            "x": 504
+          },
+          {
+            "y": 587,
+            "x": 504
+          },
+          {
+            "y": 587,
+            "x": 440
+          }
+        ]
+      }
+    },
+    {
+      "description": "in",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 565,
+            "x": 516
+          },
+          {
+            "y": 565,
+            "x": 533
+          },
+          {
+            "y": 587,
+            "x": 533
+          },
+          {
+            "y": 587,
+            "x": 516
+          }
+        ]
+      }
+    },
+    {
+      "description": "Berigal,",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 565,
+            "x": 543
+          },
+          {
+            "y": 565,
+            "x": 604
+          },
+          {
+            "y": 587,
+            "x": 604
+          },
+          {
+            "y": 587,
+            "x": 543
+          }
+        ]
+      }
+    },
+    {
+      "description": "when",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 565,
+            "x": 611
+          },
+          {
+            "y": 565,
+            "x": 656
+          },
+          {
+            "y": 587,
+            "x": 656
+          },
+          {
+            "y": 587,
+            "x": 611
+          }
+        ]
+      }
+    },
+    {
+      "description": "accused",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 565,
+            "x": 665
+          },
+          {
+            "y": 565,
+            "x": 729
+          },
+          {
+            "y": 587,
+            "x": 729
+          },
+          {
+            "y": 587,
+            "x": 665
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 565,
+            "x": 738
+          },
+          {
+            "y": 565,
+            "x": 757
+          },
+          {
+            "y": 587,
+            "x": 757
+          },
+          {
+            "y": 587,
+            "x": 738
+          }
+        ]
+      }
+    },
+    {
+      "description": "breach",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 565,
+            "x": 767
+          },
+          {
+            "y": 565,
+            "x": 822
+          },
+          {
+            "y": 587,
+            "x": 822
+          },
+          {
+            "y": 587,
+            "x": 767
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 565,
+            "x": 831
+          },
+          {
+            "y": 565,
+            "x": 847
+          },
+          {
+            "y": 587,
+            "x": 847
+          },
+          {
+            "y": 587,
+            "x": 831
+          }
+        ]
+      }
+    },
+    {
+      "description": "duty,",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 565,
+            "x": 854
+          },
+          {
+            "y": 565,
+            "x": 899
+          },
+          {
+            "y": 587,
+            "x": 899
+          },
+          {
+            "y": 587,
+            "x": 854
+          }
+        ]
+      }
+    },
+    {
+      "description": "and",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 592,
+            "x": 204
+          },
+          {
+            "y": 592,
+            "x": 232
+          },
+          {
+            "y": 614,
+            "x": 232
+          },
+          {
+            "y": 614,
+            "x": 204
+          }
+        ]
+      }
+    },
+    {
+      "description": "to",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 592,
+            "x": 242
+          },
+          {
+            "y": 592,
+            "x": 257
+          },
+          {
+            "y": 614,
+            "x": 257
+          },
+          {
+            "y": 614,
+            "x": 242
+          }
+        ]
+      }
+    },
+    {
+      "description": "extend",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 592,
+            "x": 270
+          },
+          {
+            "y": 592,
+            "x": 325
+          },
+          {
+            "y": 614,
+            "x": 325
+          },
+          {
+            "y": 614,
+            "x": 270
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 592,
+            "x": 335
+          },
+          {
+            "y": 592,
+            "x": 360
+          },
+          {
+            "y": 614,
+            "x": 360
+          },
+          {
+            "y": 614,
+            "x": 335
+          }
+        ]
+      }
+    },
+    {
+      "description": "same",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 592,
+            "x": 368
+          },
+          {
+            "y": 592,
+            "x": 408
+          },
+          {
+            "y": 614,
+            "x": 408
+          },
+          {
+            "y": 614,
+            "x": 368
+          }
+        ]
+      }
+    },
+    {
+      "description": "to",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 591,
+            "x": 417
+          },
+          {
+            "y": 591,
+            "x": 435
+          },
+          {
+            "y": 613,
+            "x": 435
+          },
+          {
+            "y": 613,
+            "x": 417
+          }
+        ]
+      }
+    },
+    {
+      "description": "persons",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 591,
+            "x": 444
+          },
+          {
+            "y": 591,
+            "x": 506
+          },
+          {
+            "y": 613,
+            "x": 506
+          },
+          {
+            "y": 613,
+            "x": 444
+          }
+        ]
+      }
+    },
+    {
+      "description": "licensed",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 591,
+            "x": 513
+          },
+          {
+            "y": 591,
+            "x": 579
+          },
+          {
+            "y": 613,
+            "x": 579
+          },
+          {
+            "y": 613,
+            "x": 513
+          }
+        ]
+      }
+    },
+    {
+      "description": "to",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 591,
+            "x": 590
+          },
+          {
+            "y": 591,
+            "x": 607
+          },
+          {
+            "y": 613,
+            "x": 607
+          },
+          {
+            "y": 613,
+            "x": 590
+          }
+        ]
+      }
+    },
+    {
+      "description": "act",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 591,
+            "x": 618
+          },
+          {
+            "y": 591,
+            "x": 646
+          },
+          {
+            "y": 613,
+            "x": 646
+          },
+          {
+            "y": 613,
+            "x": 618
+          }
+        ]
+      }
+    },
+    {
+      "description": "as",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 591,
+            "x": 654
+          },
+          {
+            "y": 591,
+            "x": 671
+          },
+          {
+            "y": 613,
+            "x": 671
+          },
+          {
+            "y": 613,
+            "x": 654
+          }
+        ]
+      }
+    },
+    {
+      "description": "Pilots",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 591,
+            "x": 681
+          },
+          {
+            "y": 591,
+            "x": 731
+          },
+          {
+            "y": 613,
+            "x": 731
+          },
+          {
+            "y": 613,
+            "x": 681
+          }
+        ]
+      }
+    },
+    {
+      "description": "at",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 590,
+            "x": 738
+          },
+          {
+            "y": 590,
+            "x": 755
+          },
+          {
+            "y": 612,
+            "x": 755
+          },
+          {
+            "y": 612,
+            "x": 738
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 590,
+            "x": 763
+          },
+          {
+            "y": 590,
+            "x": 790
+          },
+          {
+            "y": 612,
+            "x": 790
+          },
+          {
+            "y": 612,
+            "x": 763
+          }
+        ]
+      }
+    },
+    {
+      "description": "said",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 590,
+            "x": 800
+          },
+          {
+            "y": 590,
+            "x": 837
+          },
+          {
+            "y": 612,
+            "x": 837
+          },
+          {
+            "y": 612,
+            "x": 800
+          }
+        ]
+      }
+    },
+    {
+      "description": "Presi-",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 590,
+            "x": 850
+          },
+          {
+            "y": 590,
+            "x": 900
+          },
+          {
+            "y": 612,
+            "x": 900
+          },
+          {
+            "y": 612,
+            "x": 850
+          }
+        ]
+      }
+    },
+    {
+      "description": "dency",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 617,
+            "x": 204
+          },
+          {
+            "y": 617,
+            "x": 251
+          },
+          {
+            "y": 639,
+            "x": 251
+          },
+          {
+            "y": 639,
+            "x": 204
+          }
+        ]
+      }
+    },
+    {
+      "description": "It",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 617,
+            "x": 275
+          },
+          {
+            "y": 617,
+            "x": 291
+          },
+          {
+            "y": 639,
+            "x": 291
+          },
+          {
+            "y": 639,
+            "x": 275
+          }
+        ]
+      }
+    },
+    {
+      "description": "is",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 617,
+            "x": 298
+          },
+          {
+            "y": 617,
+            "x": 312
+          },
+          {
+            "y": 639,
+            "x": 312
+          },
+          {
+            "y": 639,
+            "x": 298
+          }
+        ]
+      }
+    },
+    {
+      "description": "enacted",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 617,
+            "x": 320
+          },
+          {
+            "y": 617,
+            "x": 381
+          },
+          {
+            "y": 639,
+            "x": 381
+          },
+          {
+            "y": 639,
+            "x": 320
+          }
+        ]
+      }
+    },
+    {
+      "description": "as",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 617,
+            "x": 389
+          },
+          {
+            "y": 617,
+            "x": 406
+          },
+          {
+            "y": 639,
+            "x": 406
+          },
+          {
+            "y": 639,
+            "x": 389
+          }
+        ]
+      }
+    },
+    {
+      "description": "follows:",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 617,
+            "x": 414
+          },
+          {
+            "y": 617,
+            "x": 488
+          },
+          {
+            "y": 639,
+            "x": 488
+          },
+          {
+            "y": 639,
+            "x": 414
+          }
+        ]
+      }
+    },
+    {
+      "description": "I.",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 245
+          },
+          {
+            "y": 657,
+            "x": 267
+          },
+          {
+            "y": 682,
+            "x": 267
+          },
+          {
+            "y": 682,
+            "x": 245
+          }
+        ]
+      }
+    },
+    {
+      "description": "Act",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 280
+          },
+          {
+            "y": 657,
+            "x": 312
+          },
+          {
+            "y": 682,
+            "x": 312
+          },
+          {
+            "y": 682,
+            "x": 280
+          }
+        ]
+      }
+    },
+    {
+      "description": "XXIV",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 320
+          },
+          {
+            "y": 657,
+            "x": 380
+          },
+          {
+            "y": 682,
+            "x": 380
+          },
+          {
+            "y": 682,
+            "x": 320
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 388
+          },
+          {
+            "y": 657,
+            "x": 403
+          },
+          {
+            "y": 682,
+            "x": 403
+          },
+          {
+            "y": 682,
+            "x": 388
+          }
+        ]
+      }
+    },
+    {
+      "description": "1845",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 411
+          },
+          {
+            "y": 657,
+            "x": 452
+          },
+          {
+            "y": 682,
+            "x": 452
+          },
+          {
+            "y": 682,
+            "x": 411
+          }
+        ]
+      }
+    },
+    {
+      "description": "(for",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 458
+          },
+          {
+            "y": 657,
+            "x": 492
+          },
+          {
+            "y": 682,
+            "x": 492
+          },
+          {
+            "y": 682,
+            "x": 458
+          }
+        ]
+      }
+    },
+    {
+      "description": "establishing",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 500
+          },
+          {
+            "y": 657,
+            "x": 599
+          },
+          {
+            "y": 682,
+            "x": 599
+          },
+          {
+            "y": 682,
+            "x": 500
+          }
+        ]
+      }
+    },
+    {
+      "description": "a",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 610
+          },
+          {
+            "y": 657,
+            "x": 619
+          },
+          {
+            "y": 682,
+            "x": 619
+          },
+          {
+            "y": 682,
+            "x": 610
+          }
+        ]
+      }
+    },
+    {
+      "description": "Court",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 628
+          },
+          {
+            "y": 657,
+            "x": 678
+          },
+          {
+            "y": 682,
+            "x": 678
+          },
+          {
+            "y": 682,
+            "x": 628
+          }
+        ]
+      }
+    },
+    {
+      "description": "for",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 687
+          },
+          {
+            "y": 657,
+            "x": 711
+          },
+          {
+            "y": 682,
+            "x": 711
+          },
+          {
+            "y": 682,
+            "x": 687
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 717
+          },
+          {
+            "y": 657,
+            "x": 746
+          },
+          {
+            "y": 682,
+            "x": 746
+          },
+          {
+            "y": 682,
+            "x": 717
+          }
+        ]
+      }
+    },
+    {
+      "description": "trial",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 758
+          },
+          {
+            "y": 657,
+            "x": 798
+          },
+          {
+            "y": 682,
+            "x": 798
+          },
+          {
+            "y": 682,
+            "x": 758
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 803
+          },
+          {
+            "y": 657,
+            "x": 824
+          },
+          {
+            "y": 682,
+            "x": 824
+          },
+          {
+            "y": 682,
+            "x": 803
+          }
+        ]
+      }
+    },
+    {
+      "description": "Oticers",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 657,
+            "x": 836
+          },
+          {
+            "y": 657,
+            "x": 901
+          },
+          {
+            "y": 682,
+            "x": 901
+          },
+          {
+            "y": 682,
+            "x": 836
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 683,
+            "x": 393
+          },
+          {
+            "y": 683,
+            "x": 410
+          },
+          {
+            "y": 706,
+            "x": 410
+          },
+          {
+            "y": 706,
+            "x": 393
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 683,
+            "x": 416
+          },
+          {
+            "y": 683,
+            "x": 441
+          },
+          {
+            "y": 706,
+            "x": 441
+          },
+          {
+            "y": 706,
+            "x": 416
+          }
+        ]
+      }
+    },
+    {
+      "description": "Pilot",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 683,
+            "x": 449
+          },
+          {
+            "y": 683,
+            "x": 491
+          },
+          {
+            "y": 706,
+            "x": 491
+          },
+          {
+            "y": 706,
+            "x": 449
+          }
+        ]
+      }
+    },
+    {
+      "description": "Service",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 683,
+            "x": 498
+          },
+          {
+            "y": 683,
+            "x": 559
+          },
+          {
+            "y": 706,
+            "x": 559
+          },
+          {
+            "y": 706,
+            "x": 498
+          }
+        ]
+      }
+    },
+    {
+      "description": "accused",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 683,
+            "x": 567
+          },
+          {
+            "y": 683,
+            "x": 632
+          },
+          {
+            "y": 706,
+            "x": 632
+          },
+          {
+            "y": 706,
+            "x": 567
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 683,
+            "x": 640
+          },
+          {
+            "y": 683,
+            "x": 654
+          },
+          {
+            "y": 706,
+            "x": 654
+          },
+          {
+            "y": 706,
+            "x": 640
+          }
+        ]
+      }
+    },
+    {
+      "description": "breach",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 683,
+            "x": 660
+          },
+          {
+            "y": 683,
+            "x": 717
+          },
+          {
+            "y": 706,
+            "x": 717
+          },
+          {
+            "y": 706,
+            "x": 660
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 683,
+            "x": 726
+          },
+          {
+            "y": 683,
+            "x": 742
+          },
+          {
+            "y": 706,
+            "x": 742
+          },
+          {
+            "y": 706,
+            "x": 726
+          }
+        ]
+      }
+    },
+    {
+      "description": "duty)",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 683,
+            "x": 752
+          },
+          {
+            "y": 683,
+            "x": 796
+          },
+          {
+            "y": 706,
+            "x": 796
+          },
+          {
+            "y": 706,
+            "x": 752
+          }
+        ]
+      }
+    },
+    {
+      "description": "and",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 683,
+            "x": 804
+          },
+          {
+            "y": 683,
+            "x": 834
+          },
+          {
+            "y": 706,
+            "x": 834
+          },
+          {
+            "y": 706,
+            "x": 804
+          }
+        ]
+      }
+    },
+    {
+      "description": "Act",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 683,
+            "x": 845
+          },
+          {
+            "y": 683,
+            "x": 880
+          },
+          {
+            "y": 706,
+            "x": 880
+          },
+          {
+            "y": 706,
+            "x": 845
+          }
+        ]
+      }
+    },
+    {
+      "description": "I",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 683,
+            "x": 890
+          },
+          {
+            "y": 683,
+            "x": 899
+          },
+          {
+            "y": 706,
+            "x": 899
+          },
+          {
+            "y": 706,
+            "x": 890
+          }
+        ]
+      }
+    },
+    {
+      "description": "Acts",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 701,
+            "x": 218
+          },
+          {
+            "y": 701,
+            "x": 246
+          },
+          {
+            "y": 716,
+            "x": 246
+          },
+          {
+            "y": 716,
+            "x": 218
+          }
+        ]
+      }
+    },
+    {
+      "description": "repealed.",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 701,
+            "x": 251
+          },
+          {
+            "y": 701,
+            "x": 309
+          },
+          {
+            "y": 716,
+            "x": 309
+          },
+          {
+            "y": 716,
+            "x": 251
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 710,
+            "x": 392
+          },
+          {
+            "y": 710,
+            "x": 411
+          },
+          {
+            "y": 732,
+            "x": 411
+          },
+          {
+            "y": 732,
+            "x": 392
+          }
+        ]
+      }
+    },
+    {
+      "description": "1851",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 710,
+            "x": 422
+          },
+          {
+            "y": 710,
+            "x": 466
+          },
+          {
+            "y": 732,
+            "x": 466
+          },
+          {
+            "y": 732,
+            "x": 422
+          }
+        ]
+      }
+    },
+    {
+      "description": "for",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 710,
+            "x": 479
+          },
+          {
+            "y": 710,
+            "x": 514
+          },
+          {
+            "y": 732,
+            "x": 514
+          },
+          {
+            "y": 732,
+            "x": 479
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 710,
+            "x": 523
+          },
+          {
+            "y": 710,
+            "x": 551
+          },
+          {
+            "y": 732,
+            "x": 551
+          },
+          {
+            "y": 732,
+            "x": 523
+          }
+        ]
+      }
+    },
+    {
+      "description": "appropriation",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 710,
+            "x": 562
+          },
+          {
+            "y": 710,
+            "x": 682
+          },
+          {
+            "y": 732,
+            "x": 682
+          },
+          {
+            "y": 732,
+            "x": 562
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 710,
+            "x": 698
+          },
+          {
+            "y": 710,
+            "x": 719
+          },
+          {
+            "y": 732,
+            "x": 719
+          },
+          {
+            "y": 732,
+            "x": 698
+          }
+        ]
+      }
+    },
+    {
+      "description": "fines",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 710,
+            "x": 731
+          },
+          {
+            "y": 710,
+            "x": 777
+          },
+          {
+            "y": 732,
+            "x": 777
+          },
+          {
+            "y": 732,
+            "x": 731
+          }
+        ]
+      }
+    },
+    {
+      "description": "levied",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 710,
+            "x": 788
+          },
+          {
+            "y": 710,
+            "x": 837
+          },
+          {
+            "y": 732,
+            "x": 837
+          },
+          {
+            "y": 732,
+            "x": 788
+          }
+        ]
+      }
+    },
+    {
+      "description": "under",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 710,
+            "x": 847
+          },
+          {
+            "y": 710,
+            "x": 899
+          },
+          {
+            "y": 732,
+            "x": 899
+          },
+          {
+            "y": 732,
+            "x": 847
+          }
+        ]
+      }
+    },
+    {
+      "description": "Act",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 735,
+            "x": 202
+          },
+          {
+            "y": 735,
+            "x": 232
+          },
+          {
+            "y": 759,
+            "x": 232
+          },
+          {
+            "y": 759,
+            "x": 202
+          }
+        ]
+      }
+    },
+    {
+      "description": "XXIV",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 735,
+            "x": 239
+          },
+          {
+            "y": 735,
+            "x": 296
+          },
+          {
+            "y": 759,
+            "x": 296
+          },
+          {
+            "y": 759,
+            "x": 239
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 735,
+            "x": 304
+          },
+          {
+            "y": 735,
+            "x": 325
+          },
+          {
+            "y": 759,
+            "x": 325
+          },
+          {
+            "y": 759,
+            "x": 304
+          }
+        ]
+      }
+    },
+    {
+      "description": "1845)",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 735,
+            "x": 330
+          },
+          {
+            "y": 735,
+            "x": 381
+          },
+          {
+            "y": 759,
+            "x": 381
+          },
+          {
+            "y": 759,
+            "x": 330
+          }
+        ]
+      }
+    },
+    {
+      "description": "are",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 735,
+            "x": 389
+          },
+          {
+            "y": 735,
+            "x": 419
+          },
+          {
+            "y": 759,
+            "x": 419
+          },
+          {
+            "y": 759,
+            "x": 389
+          }
+        ]
+      }
+    },
+    {
+      "description": "hereby",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 735,
+            "x": 428
+          },
+          {
+            "y": 735,
+            "x": 484
+          },
+          {
+            "y": 759,
+            "x": 484
+          },
+          {
+            "y": 759,
+            "x": 428
+          }
+        ]
+      }
+    },
+    {
+      "description": "repealed.",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 735,
+            "x": 494
+          },
+          {
+            "y": 735,
+            "x": 572
+          },
+          {
+            "y": 759,
+            "x": 572
+          },
+          {
+            "y": 759,
+            "x": 494
+          }
+        ]
+      }
+    },
+    {
+      "description": "in.",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 783,
+            "x": 243
+          },
+          {
+            "y": 783,
+            "x": 273
+          },
+          {
+            "y": 808,
+            "x": 273
+          },
+          {
+            "y": 808,
+            "x": 243
+          }
+        ]
+      }
+    },
+    {
+      "description": "When",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 783,
+            "x": 286
+          },
+          {
+            "y": 783,
+            "x": 337
+          },
+          {
+            "y": 808,
+            "x": 337
+          },
+          {
+            "y": 808,
+            "x": 286
+          }
+        ]
+      }
+    },
+    {
+      "description": "any",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 783,
+            "x": 347
+          },
+          {
+            "y": 783,
+            "x": 377
+          },
+          {
+            "y": 808,
+            "x": 377
+          },
+          {
+            "y": 808,
+            "x": 347
+          }
+        ]
+      }
+    },
+    {
+      "description": "person",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 783,
+            "x": 389
+          },
+          {
+            "y": 783,
+            "x": 446
+          },
+          {
+            "y": 808,
+            "x": 446
+          },
+          {
+            "y": 808,
+            "x": 389
+          }
+        ]
+      }
+    },
+    {
+      "description": "employed",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 783,
+            "x": 458
+          },
+          {
+            "y": 783,
+            "x": 538
+          },
+          {
+            "y": 808,
+            "x": 538
+          },
+          {
+            "y": 808,
+            "x": 458
+          }
+        ]
+      }
+    },
+    {
+      "description": "in",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 783,
+            "x": 547
+          },
+          {
+            "y": 783,
+            "x": 563
+          },
+          {
+            "y": 808,
+            "x": 563
+          },
+          {
+            "y": 808,
+            "x": 547
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 783,
+            "x": 571
+          },
+          {
+            "y": 783,
+            "x": 598
+          },
+          {
+            "y": 808,
+            "x": 598
+          },
+          {
+            "y": 808,
+            "x": 571
+          }
+        ]
+      }
+    },
+    {
+      "description": "Pilot",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 783,
+            "x": 609
+          },
+          {
+            "y": 783,
+            "x": 648
+          },
+          {
+            "y": 808,
+            "x": 648
+          },
+          {
+            "y": 808,
+            "x": 609
+          }
+        ]
+      }
+    },
+    {
+      "description": "Service",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 783,
+            "x": 661
+          },
+          {
+            "y": 783,
+            "x": 725
+          },
+          {
+            "y": 808,
+            "x": 725
+          },
+          {
+            "y": 808,
+            "x": 661
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 783,
+            "x": 734
+          },
+          {
+            "y": 783,
+            "x": 752
+          },
+          {
+            "y": 808,
+            "x": 752
+          },
+          {
+            "y": 808,
+            "x": 734
+          }
+        ]
+      }
+    },
+    {
+      "description": "Government",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 783,
+            "x": 762
+          },
+          {
+            "y": 783,
+            "x": 869
+          },
+          {
+            "y": 808,
+            "x": 869
+          },
+          {
+            "y": 808,
+            "x": 762
+          }
+        ]
+      }
+    },
+    {
+      "description": "at",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 783,
+            "x": 880
+          },
+          {
+            "y": 783,
+            "x": 898
+          },
+          {
+            "y": 808,
+            "x": 898
+          },
+          {
+            "y": 808,
+            "x": 880
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 809,
+            "x": 390
+          },
+          {
+            "y": 809,
+            "x": 415
+          },
+          {
+            "y": 832,
+            "x": 415
+          },
+          {
+            "y": 832,
+            "x": 390
+          }
+        ]
+      }
+    },
+    {
+      "description": "Presidency",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 809,
+            "x": 424
+          },
+          {
+            "y": 809,
+            "x": 517
+          },
+          {
+            "y": 832,
+            "x": 517
+          },
+          {
+            "y": 832,
+            "x": 424
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 810,
+            "x": 526
+          },
+          {
+            "y": 810,
+            "x": 541
+          },
+          {
+            "y": 832,
+            "x": 541
+          },
+          {
+            "y": 832,
+            "x": 526
+          }
+        ]
+      }
+    },
+    {
+      "description": "Fort",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 810,
+            "x": 548
+          },
+          {
+            "y": 810,
+            "x": 587
+          },
+          {
+            "y": 832,
+            "x": 587
+          },
+          {
+            "y": 832,
+            "x": 548
+          }
+        ]
+      }
+    },
+    {
+      "description": "William",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 810,
+            "x": 592
+          },
+          {
+            "y": 810,
+            "x": 664
+          },
+          {
+            "y": 832,
+            "x": 664
+          },
+          {
+            "y": 832,
+            "x": 592
+          }
+        ]
+      }
+    },
+    {
+      "description": "in",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 810,
+            "x": 673
+          },
+          {
+            "y": 810,
+            "x": 689
+          },
+          {
+            "y": 832,
+            "x": 689
+          },
+          {
+            "y": 832,
+            "x": 673
+          }
+        ]
+      }
+    },
+    {
+      "description": "Bengal,",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 810,
+            "x": 699
+          },
+          {
+            "y": 810,
+            "x": 764
+          },
+          {
+            "y": 832,
+            "x": 764
+          },
+          {
+            "y": 832,
+            "x": 699
+          }
+        ]
+      }
+    },
+    {
+      "description": "or",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 810,
+            "x": 771
+          },
+          {
+            "y": 810,
+            "x": 789
+          },
+          {
+            "y": 832,
+            "x": 789
+          },
+          {
+            "y": 832,
+            "x": 771
+          }
+        ]
+      }
+    },
+    {
+      "description": "licensed",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 810,
+            "x": 799
+          },
+          {
+            "y": 810,
+            "x": 868
+          },
+          {
+            "y": 832,
+            "x": 868
+          },
+          {
+            "y": 832,
+            "x": 799
+          }
+        ]
+      }
+    },
+    {
+      "description": "to",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 809,
+            "x": 880
+          },
+          {
+            "y": 809,
+            "x": 897
+          },
+          {
+            "y": 832,
+            "x": 897
+          },
+          {
+            "y": 832,
+            "x": 880
+          }
+        ]
+      }
+    },
+    {
+      "description": "How",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 825,
+            "x": 215
+          },
+          {
+            "y": 825,
+            "x": 244
+          },
+          {
+            "y": 839,
+            "x": 244
+          },
+          {
+            "y": 839,
+            "x": 215
+          }
+        ]
+      }
+    },
+    {
+      "description": "Pilots",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 825,
+            "x": 255
+          },
+          {
+            "y": 825,
+            "x": 293
+          },
+          {
+            "y": 839,
+            "x": 293
+          },
+          {
+            "y": 839,
+            "x": 255
+          }
+        ]
+      }
+    },
+    {
+      "description": "accused",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 825,
+            "x": 301
+          },
+          {
+            "y": 825,
+            "x": 348
+          },
+          {
+            "y": 839,
+            "x": 348
+          },
+          {
+            "y": 839,
+            "x": 301
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 825,
+            "x": 355
+          },
+          {
+            "y": 825,
+            "x": 368
+          },
+          {
+            "y": 839,
+            "x": 368
+          },
+          {
+            "y": 839,
+            "x": 355
+          }
+        ]
+      }
+    },
+    {
+      "description": "shall",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 841,
+            "x": 312
+          },
+          {
+            "y": 841,
+            "x": 341
+          },
+          {
+            "y": 854,
+            "x": 341
+          },
+          {
+            "y": 854,
+            "x": 312
+          }
+        ]
+      }
+    },
+    {
+      "description": "be",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 841,
+            "x": 351
+          },
+          {
+            "y": 841,
+            "x": 368
+          },
+          {
+            "y": 854,
+            "x": 368
+          },
+          {
+            "y": 854,
+            "x": 351
+          }
+        ]
+      }
+    },
+    {
+      "description": "act",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 834,
+            "x": 388
+          },
+          {
+            "y": 834,
+            "x": 412
+          },
+          {
+            "y": 858,
+            "x": 412
+          },
+          {
+            "y": 858,
+            "x": 388
+          }
+        ]
+      }
+    },
+    {
+      "description": "as",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 834,
+            "x": 420
+          },
+          {
+            "y": 834,
+            "x": 436
+          },
+          {
+            "y": 858,
+            "x": 436
+          },
+          {
+            "y": 858,
+            "x": 420
+          }
+        ]
+      }
+    },
+    {
+      "description": "a",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 834,
+            "x": 444
+          },
+          {
+            "y": 834,
+            "x": 452
+          },
+          {
+            "y": 858,
+            "x": 452
+          },
+          {
+            "y": 858,
+            "x": 444
+          }
+        ]
+      }
+    },
+    {
+      "description": "Pilot",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 834,
+            "x": 462
+          },
+          {
+            "y": 834,
+            "x": 505
+          },
+          {
+            "y": 858,
+            "x": 505
+          },
+          {
+            "y": 858,
+            "x": 462
+          }
+        ]
+      }
+    },
+    {
+      "description": "at",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 834,
+            "x": 517
+          },
+          {
+            "y": 834,
+            "x": 535
+          },
+          {
+            "y": 858,
+            "x": 535
+          },
+          {
+            "y": 858,
+            "x": 517
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 834,
+            "x": 545
+          },
+          {
+            "y": 834,
+            "x": 572
+          },
+          {
+            "y": 858,
+            "x": 572
+          },
+          {
+            "y": 858,
+            "x": 545
+          }
+        ]
+      }
+    },
+    {
+      "description": "said",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 834,
+            "x": 584
+          },
+          {
+            "y": 834,
+            "x": 616
+          },
+          {
+            "y": 858,
+            "x": 616
+          },
+          {
+            "y": 858,
+            "x": 584
+          }
+        ]
+      }
+    },
+    {
+      "description": "Presidency,",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 834,
+            "x": 626
+          },
+          {
+            "y": 834,
+            "x": 725
+          },
+          {
+            "y": 858,
+            "x": 725
+          },
+          {
+            "y": 858,
+            "x": 626
+          }
+        ]
+      }
+    },
+    {
+      "description": "shall",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 834,
+            "x": 732
+          },
+          {
+            "y": 834,
+            "x": 771
+          },
+          {
+            "y": 858,
+            "x": 771
+          },
+          {
+            "y": 858,
+            "x": 732
+          }
+        ]
+      }
+    },
+    {
+      "description": "be",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 834,
+            "x": 781
+          },
+          {
+            "y": 834,
+            "x": 797
+          },
+          {
+            "y": 858,
+            "x": 797
+          },
+          {
+            "y": 858,
+            "x": 781
+          }
+        ]
+      }
+    },
+    {
+      "description": "accused",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 834,
+            "x": 806
+          },
+          {
+            "y": 834,
+            "x": 869
+          },
+          {
+            "y": 858,
+            "x": 869
+          },
+          {
+            "y": 858,
+            "x": 806
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 834,
+            "x": 879
+          },
+          {
+            "y": 834,
+            "x": 898
+          },
+          {
+            "y": 858,
+            "x": 898
+          },
+          {
+            "y": 858,
+            "x": 879
+          }
+        ]
+      }
+    },
+    {
+      "description": "brought",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 855,
+            "x": 201
+          },
+          {
+            "y": 855,
+            "x": 249
+          },
+          {
+            "y": 870,
+            "x": 249
+          },
+          {
+            "y": 870,
+            "x": 201
+          }
+        ]
+      }
+    },
+    {
+      "description": "to",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 855,
+            "x": 255
+          },
+          {
+            "y": 855,
+            "x": 267
+          },
+          {
+            "y": 870,
+            "x": 267
+          },
+          {
+            "y": 870,
+            "x": 255
+          }
+        ]
+      }
+    },
+    {
+      "description": "tria",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 855,
+            "x": 273
+          },
+          {
+            "y": 855,
+            "x": 295
+          },
+          {
+            "y": 870,
+            "x": 295
+          },
+          {
+            "y": 870,
+            "x": 273
+          }
+        ]
+      }
+    },
+    {
+      "description": "having",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 861,
+            "x": 387
+          },
+          {
+            "y": 861,
+            "x": 444
+          },
+          {
+            "y": 884,
+            "x": 444
+          },
+          {
+            "y": 884,
+            "x": 387
+          }
+        ]
+      }
+    },
+    {
+      "description": "committed",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 861,
+            "x": 454
+          },
+          {
+            "y": 861,
+            "x": 542
+          },
+          {
+            "y": 884,
+            "x": 542
+          },
+          {
+            "y": 884,
+            "x": 454
+          }
+        ]
+      }
+    },
+    {
+      "description": "any",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 861,
+            "x": 551
+          },
+          {
+            "y": 861,
+            "x": 581
+          },
+          {
+            "y": 884,
+            "x": 581
+          },
+          {
+            "y": 884,
+            "x": 551
+          }
+        ]
+      }
+    },
+    {
+      "description": "breach",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 861,
+            "x": 592
+          },
+          {
+            "y": 861,
+            "x": 646
+          },
+          {
+            "y": 884,
+            "x": 646
+          },
+          {
+            "y": 884,
+            "x": 592
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 861,
+            "x": 655
+          },
+          {
+            "y": 861,
+            "x": 674
+          },
+          {
+            "y": 884,
+            "x": 674
+          },
+          {
+            "y": 884,
+            "x": 655
+          }
+        ]
+      }
+    },
+    {
+      "description": "duty",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 861,
+            "x": 685
+          },
+          {
+            "y": 861,
+            "x": 725
+          },
+          {
+            "y": 884,
+            "x": 725
+          },
+          {
+            "y": 884,
+            "x": 685
+          }
+        ]
+      }
+    },
+    {
+      "description": "while",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 861,
+            "x": 740
+          },
+          {
+            "y": 861,
+            "x": 785
+          },
+          {
+            "y": 884,
+            "x": 785
+          },
+          {
+            "y": 884,
+            "x": 740
+          }
+        ]
+      }
+    },
+    {
+      "description": "engaged",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 861,
+            "x": 796
+          },
+          {
+            "y": 861,
+            "x": 867
+          },
+          {
+            "y": 884,
+            "x": 867
+          },
+          {
+            "y": 884,
+            "x": 796
+          }
+        ]
+      }
+    },
+    {
+      "description": "in",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 861,
+            "x": 879
+          },
+          {
+            "y": 861,
+            "x": 897
+          },
+          {
+            "y": 884,
+            "x": 897
+          },
+          {
+            "y": 884,
+            "x": 879
+          }
+        ]
+      }
+    },
+    {
+      "description": "such",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 885,
+            "x": 200
+          },
+          {
+            "y": 885,
+            "x": 234
+          },
+          {
+            "y": 913,
+            "x": 234
+          },
+          {
+            "y": 913,
+            "x": 200
+          }
+        ]
+      }
+    },
+    {
+      "description": "Service",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 885,
+            "x": 244
+          },
+          {
+            "y": 885,
+            "x": 306
+          },
+          {
+            "y": 913,
+            "x": 306
+          },
+          {
+            "y": 913,
+            "x": 244
+          }
+        ]
+      }
+    },
+    {
+      "description": "or",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 885,
+            "x": 315
+          },
+          {
+            "y": 885,
+            "x": 330
+          },
+          {
+            "y": 913,
+            "x": 330
+          },
+          {
+            "y": 913,
+            "x": 315
+          }
+        ]
+      }
+    },
+    {
+      "description": "acting",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 885,
+            "x": 337
+          },
+          {
+            "y": 885,
+            "x": 387
+          },
+          {
+            "y": 913,
+            "x": 387
+          },
+          {
+            "y": 913,
+            "x": 337
+          }
+        ]
+      }
+    },
+    {
+      "description": "under",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 885,
+            "x": 397
+          },
+          {
+            "y": 885,
+            "x": 446
+          },
+          {
+            "y": 913,
+            "x": 446
+          },
+          {
+            "y": 913,
+            "x": 397
+          }
+        ]
+      }
+    },
+    {
+      "description": "suchrlicense,",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 887,
+            "x": 456
+          },
+          {
+            "y": 887,
+            "x": 564
+          },
+          {
+            "y": 913,
+            "x": 564
+          },
+          {
+            "y": 913,
+            "x": 456
+          }
+        ]
+      }
+    },
+    {
+      "description": "and",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 885,
+            "x": 571
+          },
+          {
+            "y": 885,
+            "x": 600
+          },
+          {
+            "y": 913,
+            "x": 600
+          },
+          {
+            "y": 913,
+            "x": 571
+          }
+        ]
+      }
+    },
+    {
+      "description": "it",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 885,
+            "x": 610
+          },
+          {
+            "y": 885,
+            "x": 628
+          },
+          {
+            "y": 913,
+            "x": 628
+          },
+          {
+            "y": 913,
+            "x": 610
+          }
+        ]
+      }
+    },
+    {
+      "description": "shall",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 885,
+            "x": 639
+          },
+          {
+            "y": 885,
+            "x": 681
+          },
+          {
+            "y": 913,
+            "x": 681
+          },
+          {
+            "y": 913,
+            "x": 639
+          }
+        ]
+      }
+    },
+    {
+      "description": "appear",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 887,
+            "x": 690
+          },
+          {
+            "y": 887,
+            "x": 748
+          },
+          {
+            "y": 913,
+            "x": 748
+          },
+          {
+            "y": 913,
+            "x": 690
+          }
+        ]
+      }
+    },
+    {
+      "description": "to",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 887,
+            "x": 758
+          },
+          {
+            "y": 887,
+            "x": 774
+          },
+          {
+            "y": 913,
+            "x": 774
+          },
+          {
+            "y": 913,
+            "x": 758
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 885,
+            "x": 781
+          },
+          {
+            "y": 885,
+            "x": 809
+          },
+          {
+            "y": 913,
+            "x": 809
+          },
+          {
+            "y": 913,
+            "x": 781
+          }
+        ]
+      }
+    },
+    {
+      "description": "Superin-",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 885,
+            "x": 820
+          },
+          {
+            "y": 885,
+            "x": 898
+          },
+          {
+            "y": 913,
+            "x": 898
+          },
+          {
+            "y": 913,
+            "x": 820
+          }
+        ]
+      }
+    },
+    {
+      "description": "tendent",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 913,
+            "x": 199
+          },
+          {
+            "y": 913,
+            "x": 263
+          },
+          {
+            "y": 937,
+            "x": 263
+          },
+          {
+            "y": 937,
+            "x": 199
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 913,
+            "x": 272
+          },
+          {
+            "y": 913,
+            "x": 290
+          },
+          {
+            "y": 937,
+            "x": 290
+          },
+          {
+            "y": 937,
+            "x": 272
+          }
+        ]
+      }
+    },
+    {
+      "description": "Marine,",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 913,
+            "x": 299
+          },
+          {
+            "y": 913,
+            "x": 367
+          },
+          {
+            "y": 937,
+            "x": 367
+          },
+          {
+            "y": 937,
+            "x": 299
+          }
+        ]
+      }
+    },
+    {
+      "description": "or",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 913,
+            "x": 375
+          },
+          {
+            "y": 913,
+            "x": 394
+          },
+          {
+            "y": 937,
+            "x": 394
+          },
+          {
+            "y": 937,
+            "x": 375
+          }
+        ]
+      }
+    },
+    {
+      "description": "to",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 913,
+            "x": 404
+          },
+          {
+            "y": 913,
+            "x": 421
+          },
+          {
+            "y": 937,
+            "x": 421
+          },
+          {
+            "y": 937,
+            "x": 404
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 913,
+            "x": 430
+          },
+          {
+            "y": 913,
+            "x": 457
+          },
+          {
+            "y": 937,
+            "x": 457
+          },
+          {
+            "y": 937,
+            "x": 430
+          }
+        ]
+      }
+    },
+    {
+      "description": "Lieutenant-Governor",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 913,
+            "x": 468
+          },
+          {
+            "y": 913,
+            "x": 651
+          },
+          {
+            "y": 937,
+            "x": 651
+          },
+          {
+            "y": 937,
+            "x": 468
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 913,
+            "x": 659
+          },
+          {
+            "y": 913,
+            "x": 678
+          },
+          {
+            "y": 937,
+            "x": 678
+          },
+          {
+            "y": 937,
+            "x": 659
+          }
+        ]
+      }
+    },
+    {
+      "description": "Bengal,",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 913,
+            "x": 684
+          },
+          {
+            "y": 913,
+            "x": 748
+          },
+          {
+            "y": 937,
+            "x": 748
+          },
+          {
+            "y": 937,
+            "x": 684
+          }
+        ]
+      }
+    },
+    {
+      "description": "that",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 913,
+            "x": 755
+          },
+          {
+            "y": 913,
+            "x": 789
+          },
+          {
+            "y": 937,
+            "x": 789
+          },
+          {
+            "y": 937,
+            "x": 755
+          }
+        ]
+      }
+    },
+    {
+      "description": "such",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 913,
+            "x": 795
+          },
+          {
+            "y": 913,
+            "x": 832
+          },
+          {
+            "y": 937,
+            "x": 832
+          },
+          {
+            "y": 937,
+            "x": 795
+          }
+        ]
+      }
+    },
+    {
+      "description": "person",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 913,
+            "x": 839
+          },
+          {
+            "y": 913,
+            "x": 898
+          },
+          {
+            "y": 937,
+            "x": 898
+          },
+          {
+            "y": 937,
+            "x": 839
+          }
+        ]
+      }
+    },
+    {
+      "description": "ought",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 199
+          },
+          {
+            "y": 939,
+            "x": 247
+          },
+          {
+            "y": 964,
+            "x": 247
+          },
+          {
+            "y": 964,
+            "x": 199
+          }
+        ]
+      }
+    },
+    {
+      "description": "to",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 255
+          },
+          {
+            "y": 939,
+            "x": 271
+          },
+          {
+            "y": 964,
+            "x": 271
+          },
+          {
+            "y": 964,
+            "x": 255
+          }
+        ]
+      }
+    },
+    {
+      "description": "be",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 283
+          },
+          {
+            "y": 939,
+            "x": 302
+          },
+          {
+            "y": 964,
+            "x": 302
+          },
+          {
+            "y": 964,
+            "x": 283
+          }
+        ]
+      }
+    },
+    {
+      "description": "brought",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 309
+          },
+          {
+            "y": 939,
+            "x": 379
+          },
+          {
+            "y": 964,
+            "x": 379
+          },
+          {
+            "y": 964,
+            "x": 309
+          }
+        ]
+      }
+    },
+    {
+      "description": "to",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 390
+          },
+          {
+            "y": 939,
+            "x": 407
+          },
+          {
+            "y": 964,
+            "x": 407
+          },
+          {
+            "y": 964,
+            "x": 390
+          }
+        ]
+      }
+    },
+    {
+      "description": "trial",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 415
+          },
+          {
+            "y": 939,
+            "x": 453
+          },
+          {
+            "y": 964,
+            "x": 453
+          },
+          {
+            "y": 964,
+            "x": 415
+          }
+        ]
+      }
+    },
+    {
+      "description": "for",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 461
+          },
+          {
+            "y": 939,
+            "x": 487
+          },
+          {
+            "y": 964,
+            "x": 487
+          },
+          {
+            "y": 964,
+            "x": 461
+          }
+        ]
+      }
+    },
+    {
+      "description": "such",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 496
+          },
+          {
+            "y": 939,
+            "x": 538
+          },
+          {
+            "y": 964,
+            "x": 538
+          },
+          {
+            "y": 964,
+            "x": 496
+          }
+        ]
+      }
+    },
+    {
+      "description": "breach",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 551
+          },
+          {
+            "y": 939,
+            "x": 606
+          },
+          {
+            "y": 964,
+            "x": 606
+          },
+          {
+            "y": 964,
+            "x": 551
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 617
+          },
+          {
+            "y": 939,
+            "x": 635
+          },
+          {
+            "y": 964,
+            "x": 635
+          },
+          {
+            "y": 964,
+            "x": 617
+          }
+        ]
+      }
+    },
+    {
+      "description": "duty,",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 645
+          },
+          {
+            "y": 939,
+            "x": 694
+          },
+          {
+            "y": 964,
+            "x": 694
+          },
+          {
+            "y": 964,
+            "x": 645
+          }
+        ]
+      }
+    },
+    {
+      "description": "such",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 703
+          },
+          {
+            "y": 939,
+            "x": 744
+          },
+          {
+            "y": 964,
+            "x": 744
+          },
+          {
+            "y": 964,
+            "x": 703
+          }
+        ]
+      }
+    },
+    {
+      "description": "person",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 756
+          },
+          {
+            "y": 939,
+            "x": 812
+          },
+          {
+            "y": 964,
+            "x": 812
+          },
+          {
+            "y": 964,
+            "x": 756
+          }
+        ]
+      }
+    },
+    {
+      "description": "shall",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 823
+          },
+          {
+            "y": 939,
+            "x": 867
+          },
+          {
+            "y": 964,
+            "x": 867
+          },
+          {
+            "y": 964,
+            "x": 823
+          }
+        ]
+      }
+    },
+    {
+      "description": "be",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 939,
+            "x": 878
+          },
+          {
+            "y": 939,
+            "x": 896
+          },
+          {
+            "y": 964,
+            "x": 896
+          },
+          {
+            "y": 964,
+            "x": 878
+          }
+        ]
+      }
+    },
+    {
+      "description": "brought",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 964,
+            "x": 197
+          },
+          {
+            "y": 964,
+            "x": 267
+          },
+          {
+            "y": 990,
+            "x": 267
+          },
+          {
+            "y": 990,
+            "x": 197
+          }
+        ]
+      }
+    },
+    {
+      "description": "to",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 964,
+            "x": 275
+          },
+          {
+            "y": 964,
+            "x": 292
+          },
+          {
+            "y": 990,
+            "x": 292
+          },
+          {
+            "y": 990,
+            "x": 275
+          }
+        ]
+      }
+    },
+    {
+      "description": "trial",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 964,
+            "x": 297
+          },
+          {
+            "y": 964,
+            "x": 337
+          },
+          {
+            "y": 990,
+            "x": 337
+          },
+          {
+            "y": 990,
+            "x": 297
+          }
+        ]
+      }
+    },
+    {
+      "description": "upon",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 964,
+            "x": 347
+          },
+          {
+            "y": 964,
+            "x": 390
+          },
+          {
+            "y": 990,
+            "x": 390
+          },
+          {
+            "y": 990,
+            "x": 347
+          }
+        ]
+      }
+    },
+    {
+      "description": "a",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 966,
+            "x": 400
+          },
+          {
+            "y": 966,
+            "x": 410
+          },
+          {
+            "y": 992,
+            "x": 410
+          },
+          {
+            "y": 992,
+            "x": 400
+          }
+        ]
+      }
+    },
+    {
+      "description": "charge",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 964,
+            "x": 418
+          },
+          {
+            "y": 964,
+            "x": 475
+          },
+          {
+            "y": 990,
+            "x": 475
+          },
+          {
+            "y": 990,
+            "x": 418
+          }
+        ]
+      }
+    },
+    {
+      "description": "or",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 964,
+            "x": 484
+          },
+          {
+            "y": 964,
+            "x": 498
+          },
+          {
+            "y": 990,
+            "x": 498
+          },
+          {
+            "y": 990,
+            "x": 484
+          }
+        ]
+      }
+    },
+    {
+      "description": "charges",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 966,
+            "x": 504
+          },
+          {
+            "y": 966,
+            "x": 570
+          },
+          {
+            "y": 992,
+            "x": 570
+          },
+          {
+            "y": 992,
+            "x": 504
+          }
+        ]
+      }
+    },
+    {
+      "description": "framed",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 964,
+            "x": 577
+          },
+          {
+            "y": 964,
+            "x": 637
+          },
+          {
+            "y": 990,
+            "x": 637
+          },
+          {
+            "y": 990,
+            "x": 577
+          }
+        ]
+      }
+    },
+    {
+      "description": "by",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 966,
+            "x": 649
+          },
+          {
+            "y": 966,
+            "x": 670
+          },
+          {
+            "y": 992,
+            "x": 670
+          },
+          {
+            "y": 992,
+            "x": 649
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 964,
+            "x": 680
+          },
+          {
+            "y": 964,
+            "x": 707
+          },
+          {
+            "y": 990,
+            "x": 707
+          },
+          {
+            "y": 990,
+            "x": 680
+          }
+        ]
+      }
+    },
+    {
+      "description": "said",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 964,
+            "x": 717
+          },
+          {
+            "y": 964,
+            "x": 752
+          },
+          {
+            "y": 990,
+            "x": 752
+          },
+          {
+            "y": 990,
+            "x": 717
+          }
+        ]
+      }
+    },
+    {
+      "description": "Superintendent",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 964,
+            "x": 763
+          },
+          {
+            "y": 964,
+            "x": 896
+          },
+          {
+            "y": 990,
+            "x": 896
+          },
+          {
+            "y": 990,
+            "x": 763
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 990,
+            "x": 198
+          },
+          {
+            "y": 990,
+            "x": 215
+          },
+          {
+            "y": 1014,
+            "x": 215
+          },
+          {
+            "y": 1014,
+            "x": 198
+          }
+        ]
+      }
+    },
+    {
+      "description": "Marine",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 990,
+            "x": 225
+          },
+          {
+            "y": 990,
+            "x": 285
+          },
+          {
+            "y": 1014,
+            "x": 285
+          },
+          {
+            "y": 1014,
+            "x": 225
+          }
+        ]
+      }
+    },
+    {
+      "description": "or",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 990,
+            "x": 297
+          },
+          {
+            "y": 990,
+            "x": 313
+          },
+          {
+            "y": 1014,
+            "x": 313
+          },
+          {
+            "y": 1014,
+            "x": 297
+          }
+        ]
+      }
+    },
+    {
+      "description": "such",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 990,
+            "x": 322
+          },
+          {
+            "y": 990,
+            "x": 359
+          },
+          {
+            "y": 1014,
+            "x": 359
+          },
+          {
+            "y": 1014,
+            "x": 322
+          }
+        ]
+      }
+    },
+    {
+      "description": "other",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 990,
+            "x": 368
+          },
+          {
+            "y": 990,
+            "x": 413
+          },
+          {
+            "y": 1014,
+            "x": 413
+          },
+          {
+            "y": 1014,
+            "x": 368
+          }
+        ]
+      }
+    },
+    {
+      "description": "person",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 990,
+            "x": 424
+          },
+          {
+            "y": 990,
+            "x": 480
+          },
+          {
+            "y": 1014,
+            "x": 480
+          },
+          {
+            "y": 1014,
+            "x": 424
+          }
+        ]
+      }
+    },
+    {
+      "description": "as",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 990,
+            "x": 490
+          },
+          {
+            "y": 990,
+            "x": 506
+          },
+          {
+            "y": 1014,
+            "x": 506
+          },
+          {
+            "y": 1014,
+            "x": 490
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 990,
+            "x": 513
+          },
+          {
+            "y": 990,
+            "x": 539
+          },
+          {
+            "y": 1014,
+            "x": 539
+          },
+          {
+            "y": 1014,
+            "x": 513
+          }
+        ]
+      }
+    },
+    {
+      "description": "said",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 990,
+            "x": 547
+          },
+          {
+            "y": 990,
+            "x": 584
+          },
+          {
+            "y": 1014,
+            "x": 584
+          },
+          {
+            "y": 1014,
+            "x": 547
+          }
+        ]
+      }
+    },
+    {
+      "description": "Lieutenant-Governor",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 990,
+            "x": 596
+          },
+          {
+            "y": 990,
+            "x": 781
+          },
+          {
+            "y": 1014,
+            "x": 781
+          },
+          {
+            "y": 1014,
+            "x": 596
+          }
+        ]
+      }
+    },
+    {
+      "description": "shall",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 990,
+            "x": 790
+          },
+          {
+            "y": 990,
+            "x": 832
+          },
+          {
+            "y": 1014,
+            "x": 832
+          },
+          {
+            "y": 1014,
+            "x": 790
+          }
+        ]
+      }
+    },
+    {
+      "description": "direct,",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 990,
+            "x": 839
+          },
+          {
+            "y": 990,
+            "x": 895
+          },
+          {
+            "y": 1014,
+            "x": 895
+          },
+          {
+            "y": 1014,
+            "x": 839
+          }
+        ]
+      }
+    },
+    {
+      "description": "before",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1015,
+            "x": 195
+          },
+          {
+            "y": 1015,
+            "x": 248
+          },
+          {
+            "y": 1039,
+            "x": 248
+          },
+          {
+            "y": 1039,
+            "x": 195
+          }
+        ]
+      }
+    },
+    {
+      "description": "a",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1015,
+            "x": 256
+          },
+          {
+            "y": 1015,
+            "x": 264
+          },
+          {
+            "y": 1039,
+            "x": 264
+          },
+          {
+            "y": 1039,
+            "x": 256
+          }
+        ]
+      }
+    },
+    {
+      "description": "Court",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1015,
+            "x": 274
+          },
+          {
+            "y": 1015,
+            "x": 323
+          },
+          {
+            "y": 1039,
+            "x": 323
+          },
+          {
+            "y": 1039,
+            "x": 274
+          }
+        ]
+      }
+    },
+    {
+      "description": "constituted",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1015,
+            "x": 331
+          },
+          {
+            "y": 1015,
+            "x": 422
+          },
+          {
+            "y": 1039,
+            "x": 422
+          },
+          {
+            "y": 1039,
+            "x": 331
+          }
+        ]
+      }
+    },
+    {
+      "description": "under",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1015,
+            "x": 432
+          },
+          {
+            "y": 1015,
+            "x": 481
+          },
+          {
+            "y": 1039,
+            "x": 481
+          },
+          {
+            "y": 1039,
+            "x": 432
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1015,
+            "x": 488
+          },
+          {
+            "y": 1015,
+            "x": 518
+          },
+          {
+            "y": 1039,
+            "x": 518
+          },
+          {
+            "y": 1039,
+            "x": 488
+          }
+        ]
+      }
+    },
+    {
+      "description": "provisions",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1015,
+            "x": 530
+          },
+          {
+            "y": 1015,
+            "x": 618
+          },
+          {
+            "y": 1039,
+            "x": 618
+          },
+          {
+            "y": 1039,
+            "x": 530
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1015,
+            "x": 627
+          },
+          {
+            "y": 1015,
+            "x": 641
+          },
+          {
+            "y": 1039,
+            "x": 641
+          },
+          {
+            "y": 1039,
+            "x": 627
+          }
+        ]
+      }
+    },
+    {
+      "description": "this",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1015,
+            "x": 649
+          },
+          {
+            "y": 1015,
+            "x": 681
+          },
+          {
+            "y": 1039,
+            "x": 681
+          },
+          {
+            "y": 1039,
+            "x": 649
+          }
+        ]
+      }
+    },
+    {
+      "description": "Act",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1015,
+            "x": 689
+          },
+          {
+            "y": 1015,
+            "x": 720
+          },
+          {
+            "y": 1039,
+            "x": 720
+          },
+          {
+            "y": 1039,
+            "x": 689
+          }
+        ]
+      }
+    },
+    {
+      "description": "Ill.",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1070,
+            "x": 239
+          },
+          {
+            "y": 1070,
+            "x": 278
+          },
+          {
+            "y": 1094,
+            "x": 278
+          },
+          {
+            "y": 1094,
+            "x": 239
+          }
+        ]
+      }
+    },
+    {
+      "description": "The",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1070,
+            "x": 292
+          },
+          {
+            "y": 1070,
+            "x": 326
+          },
+          {
+            "y": 1094,
+            "x": 326
+          },
+          {
+            "y": 1094,
+            "x": 292
+          }
+        ]
+      }
+    },
+    {
+      "description": "Lieutenant-Governor",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1070,
+            "x": 338
+          },
+          {
+            "y": 1070,
+            "x": 519
+          },
+          {
+            "y": 1094,
+            "x": 519
+          },
+          {
+            "y": 1094,
+            "x": 338
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1070,
+            "x": 529
+          },
+          {
+            "y": 1070,
+            "x": 547
+          },
+          {
+            "y": 1095,
+            "x": 547
+          },
+          {
+            "y": 1095,
+            "x": 529
+          }
+        ]
+      }
+    },
+    {
+      "description": "Bengal",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1070,
+            "x": 555
+          },
+          {
+            "y": 1070,
+            "x": 618
+          },
+          {
+            "y": 1094,
+            "x": 618
+          },
+          {
+            "y": 1094,
+            "x": 555
+          }
+        ]
+      }
+    },
+    {
+      "description": "shall",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1070,
+            "x": 627
+          },
+          {
+            "y": 1070,
+            "x": 668
+          },
+          {
+            "y": 1095,
+            "x": 668
+          },
+          {
+            "y": 1095,
+            "x": 627
+          }
+        ]
+      }
+    },
+    {
+      "description": "appoint",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1070,
+            "x": 676
+          },
+          {
+            "y": 1070,
+            "x": 742
+          },
+          {
+            "y": 1095,
+            "x": 742
+          },
+          {
+            "y": 1095,
+            "x": 676
+          }
+        ]
+      }
+    },
+    {
+      "description": "a",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1070,
+            "x": 748
+          },
+          {
+            "y": 1070,
+            "x": 757
+          },
+          {
+            "y": 1094,
+            "x": 757
+          },
+          {
+            "y": 1094,
+            "x": 748
+          }
+        ]
+      }
+    },
+    {
+      "description": "fit",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1070,
+            "x": 764
+          },
+          {
+            "y": 1070,
+            "x": 780
+          },
+          {
+            "y": 1094,
+            "x": 780
+          },
+          {
+            "y": 1094,
+            "x": 764
+          }
+        ]
+      }
+    },
+    {
+      "description": "person",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1070,
+            "x": 790
+          },
+          {
+            "y": 1070,
+            "x": 846
+          },
+          {
+            "y": 1095,
+            "x": 846
+          },
+          {
+            "y": 1095,
+            "x": 790
+          }
+        ]
+      }
+    },
+    {
+      "description": "to",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1070,
+            "x": 851
+          },
+          {
+            "y": 1070,
+            "x": 867
+          },
+          {
+            "y": 1094,
+            "x": 867
+          },
+          {
+            "y": 1094,
+            "x": 851
+          }
+        ]
+      }
+    },
+    {
+      "description": "be",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1070,
+            "x": 877
+          },
+          {
+            "y": 1070,
+            "x": 894
+          },
+          {
+            "y": 1094,
+            "x": 894
+          },
+          {
+            "y": 1094,
+            "x": 877
+          }
+        ]
+      }
+    },
+    {
+      "description": "Appointment",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1096,
+            "x": 210
+          },
+          {
+            "y": 1096,
+            "x": 294
+          },
+          {
+            "y": 1110,
+            "x": 294
+          },
+          {
+            "y": 1110,
+            "x": 210
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1096,
+            "x": 301
+          },
+          {
+            "y": 1096,
+            "x": 313
+          },
+          {
+            "y": 1110,
+            "x": 313
+          },
+          {
+            "y": 1110,
+            "x": 301
+          }
+        ]
+      }
+    },
+    {
+      "description": "Judge",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1096,
+            "x": 320
+          },
+          {
+            "y": 1096,
+            "x": 360
+          },
+          {
+            "y": 1110,
+            "x": 360
+          },
+          {
+            "y": 1110,
+            "x": 320
+          }
+        ]
+      }
+    },
+    {
+      "description": "Judge",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1098,
+            "x": 386
+          },
+          {
+            "y": 1098,
+            "x": 438
+          },
+          {
+            "y": 1116,
+            "x": 438
+          },
+          {
+            "y": 1116,
+            "x": 386
+          }
+        ]
+      }
+    },
+    {
+      "description": "of",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1098,
+            "x": 447
+          },
+          {
+            "y": 1098,
+            "x": 460
+          },
+          {
+            "y": 1116,
+            "x": 460
+          },
+          {
+            "y": 1116,
+            "x": 447
+          }
+        ]
+      }
+    },
+    {
+      "description": "the",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1098,
+            "x": 468
+          },
+          {
+            "y": 1098,
+            "x": 495
+          },
+          {
+            "y": 1117,
+            "x": 495
+          },
+          {
+            "y": 1117,
+            "x": 468
+          }
+        ]
+      }
+    },
+    {
+      "description": "said",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1098,
+            "x": 502
+          },
+          {
+            "y": 1099,
+            "x": 534
+          },
+          {
+            "y": 1118,
+            "x": 534
+          },
+          {
+            "y": 1117,
+            "x": 502
+          }
+        ]
+      }
+    },
+    {
+      "description": "Court.",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1099,
+            "x": 544
+          },
+          {
+            "y": 1100,
+            "x": 597
+          },
+          {
+            "y": 1119,
+            "x": 597
+          },
+          {
+            "y": 1118,
+            "x": 544
+          }
+        ]
+      }
+    },
+    {
+      "description": "IV.",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1122,
+            "x": 807
+          },
+          {
+            "y": 1122,
+            "x": 844
+          },
+          {
+            "y": 1140,
+            "x": 844
+          },
+          {
+            "y": 1140,
+            "x": 807
+          }
+        ]
+      }
+    },
+    {
+      "description": "The",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 1122,
+            "x": 859
+          },
+          {
+            "y": 1122,
+            "x": 893
+          },
+          {
+            "y": 1140,
+            "x": 893
+          },
+          {
+            "y": 1140,
+            "x": 859
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sign In</title>
+    <!-- Google Font -->
+    <link href='http://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- Font Awesome -->
+
+
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+     <!-- Preloader -->
+    <link rel="stylesheet" href="homepage/css/preloader.css" type="text/css" media="screen, print"/>
+
+    <!-- Icon Font-->
+    <link rel="stylesheet" href="homepage/style.css">
+    <link rel="stylesheet" href="homepage/css/owl.carousel.css">
+    <link rel="stylesheet" href="homepage/css/owl.theme.default.css">
+    <!-- Animate CSS-->
+    <link rel="stylesheet" href="homepage/css/animate.css">
+
+    <!-- Bootstrap -->
+    <link href="homepage/css/bootstrap.min.css" rel="stylesheet">
+
+
+
+    <!-- Style -->
+    <link href="homepage/css/style.css" rel="stylesheet">
+
+    <!-- Responsive CSS -->
+    <link href="homepage/css/responsive.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="js/lte-ie7.js"></script>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+                <!-- Preloader -->
+                <div id="preloader">
+                    <div id="status">&nbsp;</div>
+                </div>
+
+
+
+
+    <header id="HOME" style="background-position: 50% -125px;">
+          <div class="section_overlay">
+              <nav class="navbar navbar-default navbar-fixed-top">
+                <div class="container">
+                  <!-- Brand and toggle get grouped for better mobile display -->
+                  <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#"><h2><strong>Vakil</strong>Search</h2></a>
+                  </div>
+                </div><!-- /.container -->
+              </nav> 
+
+              <div class="container">
+                  <div class="row">
+                      <div class="col-md-12 text-center">
+                          <div class="home_text wow fadeInUp animated">
+         
+                              <img src="homepage/images/shape.png" alt="">
+                                <%= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
+                                  <div id="page-wrapper">
+                                    <div class="row">
+                                      <div class="col-lg-12 text-center v-center">
+                                        <h1><strong>Sign In</strong></h1>
+                                        <p class="lead">Enter your email and password to sign-in</p><center>
+                                        <div class="col-lg-4 text-center v-center">
+                                        </div>
+                                        <div class="col-lg-4 text-center v-center">
+                                        <div class="form-group" style="margin: 0 auto;">
+                                          <input style="color:black" autofocus name="user[email]" value="<%= @user.email %>" class="form-control input-lg"
+                                        placeholder="Enter your email address" type="text">
+                                        </div><br>
+                                        <div class="form-group" style="margin: 0 auto;">
+                                          <input style="color:black" name="user[password]" value="<%= @user.password %>" autocomplete="off" class="form-control input-lg"
+                                        placeholder="Enter your password" type="password">
+                                        </div><br></center>
+                                        </div>
+                                       </div>
+                                        <div class="col-md-4">
+                                        </div>
+                                        <div class="col-md-2">
+                                        <% if devise_mapping.rememberable? -%>
+                                        <div><%= f.check_box :remember_me %> <%= f.label :remember_me %></div><br>
+                                        <% end -%>
+                                        </div>
+                                        <div class="col-lg-12 text-center v-center">
+                                          <input class="btn btn-danger btn-lg" value ="Sign In" type="submit">
+                                        </div>
+                                      </div>     
+                                  </div>
+                                </div>
+                                <% end %>                        
+                          </div>
+                      </div>
+                  </div>
+              </div>           
+          </div>  
+      </section>         
+    </header>
+<!-- 
+<footer>
+    <div class="container">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div class="footer_logo   wow fadeInUp animated">
+                        <img src="images/logo.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center   wow fadeInUp animated">
+                    <div class="social">
+                        <h2>Follow Me on Here</h2>
+                        <ul class="icon_list">
+                            <li><a href="http://www.facebook.com/abdullah.noman99"target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="http://www.twitter.com/absconderm"target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="http://www.dribbble.com/abdullahnoman"target="_blank"><i class="fa fa-dribbble"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div class="copyright_text   wow fadeInUp animated">
+                        <p>&copy; brandy 2015.All Right Reserved By <a href="http://www.themeforest.net/user/thecodecafe"target="_blank">Code Cafe Team</a></p>
+                        <p>Made with love for creative people.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer> -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- =========================
+     SCRIPTS 
+============================== -->
+
+
+    <script src="homepage/js/jquery.min.js"></script>
+    <script src="homepage/js/bootstrap.min.js"></script>
+    <script src="homepage/js/jquery.nicescroll.js"></script>
+    <script src="homepage/js/owl.carousel.js"></script>
+    <script src="homepage/js/wow.js"></script>
+    <script src="homepage/js/script.js"></script>
+
+
+
+
+</body>
+
+</html>
